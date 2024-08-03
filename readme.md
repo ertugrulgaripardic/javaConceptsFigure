@@ -16,6 +16,3 @@ Welcome to the Java Advanced Concepts repository! This repository is dedicated t
 ## Getting Started
 
 To get started with the examples and projects in this repository, clone the repository to your local machine:
-
-```sh
-git clone https://github.com/username/Java-Advanced-Concepts.git
